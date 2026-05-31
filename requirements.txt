@@ -1,0 +1,6 @@
+scalecast==0.19.8
+tensorflow
+pandas-datareader
+matplotlib
+jupyter
+typing_extensions
